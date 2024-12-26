@@ -74,6 +74,3 @@ Bu uygulama, C# ve SQL kullanılarak geliştirilmiş bir proje yönetim sistemid
 ## Lisans
 Bu proje, eğitim amaçlı olarak tasarlanmıştır ve ticari kullanım için lisanslanmamıştır.
 
----
-
-Bu projeye katkıda bulunmak için sorunları bildirebilir veya çekme isteği gönderebilirsiniz!
