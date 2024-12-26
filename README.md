@@ -1,4 +1,4 @@
-# Proje Yönetim Uygulaması
+# Projecte
 
 Bu uygulama, C# ve SQL kullanılarak geliştirilmiş bir proje yönetim sistemidir. Kullanıcıların projeleri, görevleri ve çalışanları etkili bir şekilde yönetmelerine olanak tanır. Uygulama, ilerlemeyi ve son teslim tarihlerini izlemeye odaklanır.
 
