@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eyuph\\source\\repos\\Projecte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\taskpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\taskpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\projectpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\projectpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\employeepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\employeepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\employeedetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\employeedetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\taskpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\taskpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\registerpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\registerpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\projectpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\projectpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|c:\\users\\eyuph\\source\\repos\\projecte\\projecte\\forms\\employeepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F95FB43-6BAF-4FF9-83DB-984970ED303B}|Projecte\\Projecte.csproj|solutionrelative:projecte\\forms\\employeepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDetail.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\EmployeeDetail.Designer.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\EmployeeDetail.Designer.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\EmployeeDetail.Designer.cs",
+              "RelativeToolTip": "Projecte\\Forms\\EmployeeDetail.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAhwJAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:09:00.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeDetail.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\EmployeeDetail.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\EmployeeDetail.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\EmployeeDetail.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Projecte\\Forms\\EmployeeDetail.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:06:59.121Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeePage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\EmployeePage.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\EmployeePage.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\EmployeePage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Projecte\\Forms\\EmployeePage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:07:14.581Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\LoginPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Projecte\\Forms\\LoginPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:03:38.342Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\MainPage.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\MainPage.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\MainPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Projecte\\Forms\\MainPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:06:32.586Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\ProjectPage.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\ProjectPage.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\ProjectPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Projecte\\Forms\\ProjectPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:07:30.507Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\RegisterPage.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\RegisterPage.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\RegisterPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Projecte\\Forms\\RegisterPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:07:44.829Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\TaskPage.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\TaskPage.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\TaskPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Projecte\\Forms\\TaskPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:07:58.288Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\LoginPage.Designer.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\LoginPage.Designer.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\LoginPage.Designer.cs",
+              "RelativeToolTip": "Projecte\\Forms\\LoginPage.Designer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAhwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:10:12.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Program.cs",
+              "RelativeDocumentMoniker": "Projecte\\Program.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Program.cs",
+              "RelativeToolTip": "Projecte\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:13:17.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\TaskPage.Designer.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\TaskPage.Designer.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\TaskPage.Designer.cs",
+              "RelativeToolTip": "Projecte\\Forms\\TaskPage.Designer.cs",
+              "ViewState": "AgIAAIQBAAAAAAAAAAAhwJ4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:11:02.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\RegisterPage.Designer.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\RegisterPage.Designer.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\RegisterPage.Designer.cs",
+              "RelativeToolTip": "Projecte\\Forms\\RegisterPage.Designer.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAhwLoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:10:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\ProjectPage.Designer.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\ProjectPage.Designer.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\ProjectPage.Designer.cs",
+              "RelativeToolTip": "Projecte\\Forms\\ProjectPage.Designer.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAhwIEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:10:48.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeePage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\EmployeePage.Designer.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\EmployeePage.Designer.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\EmployeePage.Designer.cs",
+              "RelativeToolTip": "Projecte\\Forms\\EmployeePage.Designer.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAhwBwBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:10:04.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\MainPage.Designer.cs",
+              "RelativeDocumentMoniker": "Projecte\\Forms\\MainPage.Designer.cs",
+              "ToolTip": "C:\\Users\\eyuph\\source\\repos\\Projecte\\Projecte\\Forms\\MainPage.Designer.cs",
+              "RelativeToolTip": "Projecte\\Forms\\MainPage.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAhwIcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:10:41.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
